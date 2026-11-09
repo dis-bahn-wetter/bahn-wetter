@@ -1,6 +1,6 @@
 # Bahn & Wetter
 
-Ist die Bahn bei Regen, Sturm oder Hitze unpünktlicher?
+Ist die Bahn bei Regen, Sturm, Schnee oder Hitze unpünktlicher?
 
 ## Team
 
