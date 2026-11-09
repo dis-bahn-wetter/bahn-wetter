@@ -1,2 +1,16 @@
-# bahn-wetter
-Ist die Bahn bei Regen, Sturm oder Hitze unpünktlicher? Gruppenprojekt im Modul Data Integration (DIS 3.3), TH Köln.
+# Bahn & Wetter
+
+Ist die Bahn bei Regen, Sturm oder Hitze unpünktlicher?
+
+## Team
+
+## Thema
+
+## Daten
+
+| Datensatz | Herausgeber | Lizenz | Formate | Profiliert von |
+| --- | --- | --- | --- | --- |
+
+## Forschungsfragen
+
+## Plan
