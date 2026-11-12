@@ -4,6 +4,13 @@ Ist die Bahn bei Regen, Sturm, Schnee oder Hitze unpünktlicher?
 
 ## Team
 
+| Name | GitHub | Zuständig für |
+| --- | --- | --- |
+| Thomas Trinh | [@trinhthomas](https://github.com/trinhthomas) | DB-Verspätungen |
+| Paul Ewers | [@paulews](https://github.com/paulews) | DWD-Wetter |
+| Lennart Merschel | [@lenmer100](https://github.com/lenmer100) | Feiertage/Events (Scraping) |
+| Robel Mihretab | [@robelmihretab](https://github.com/robelmihretab) | NRW-Schulferien (Scraping) |
+
 ## Thema
 
 ## Daten
