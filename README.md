@@ -23,6 +23,7 @@ Grenzen: Die DB-Daten reichen erst ab Juli 2024 zurück und stammen aus einer ge
 | --- | --- | --- | --- | --- |
 | DB-Verspätungen (Deutsche Bahn Train Data) | Deutsche Bahn AG (Timetables API), gesammelt von piebro auf [Hugging Face](https://huggingface.co/datasets/piebro/deutsche-bahn-data) | CC BY 4.0 | Parquet | Thomas Trinh |
 | Stündliche Wetterdaten, Station 02667 Köln/Bonn: [Niederschlag](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/precipitation/), [Wind](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/), [Lufttemperatur](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/) | Deutscher Wetterdienst (DWD) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | ZIP mit TXT (`;`-getrennt, Latin-1, Zeit in UTC) | Paul Ewers (Niederschlag) |
+| NRW Schulferien | Ministerium für Schule und Bildung des Landes NRW | CC BY 4.0 | ICS (iCal), CSV, PDF | Robel Mihretab |
 
 ## Forschungsfragen
 
