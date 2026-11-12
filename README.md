@@ -23,6 +23,9 @@ Grenzen: Die DB-Daten reichen erst ab Juli 2024 zurück und stammen aus einer ge
 | --- | --- | --- | --- | --- |
 | DB-Verspätungen (Deutsche Bahn Train Data) | Deutsche Bahn AG (Timetables API), gesammelt von piebro auf [Hugging Face](https://huggingface.co/datasets/piebro/deutsche-bahn-data) | CC BY 4.0 | Parquet | Thomas Trinh |
 | Stündliche Wetterdaten, Station 02667 Köln/Bonn: [Niederschlag](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/precipitation/), [Wind](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/), [Lufttemperatur](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/) | Deutscher Wetterdienst (DWD) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | ZIP mit TXT (`;`-getrennt, Latin-1, Zeit in UTC) | Paul Ewers (Niederschlag) |
+| Gesetzliche Feiertage in Deutschland und daraus abgeleitete Kölner Karnevalstage, [Feiertag (Deutschland)](https://de.wikipedia.org/w/index.php?oldid=271794065) (Version 271794065 vom 01.11.2026) | Autor:innen der deutschsprachigen Wikipedia | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) | HTML, JSON über die MediaWiki-API; aufbereitet als CSV (ein Eintrag pro Tag) | Lennart Merschel |
+
+Sobald die Feiertagsspalten (CC BY-SA 4.0) in den gemeinsamen Datensatz einfließen, muss dieser selbst unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) stehen.
 
 ## Forschungsfragen
 
