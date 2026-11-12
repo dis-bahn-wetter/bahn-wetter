@@ -15,4 +15,10 @@ Ist die Bahn bei Regen, Sturm, Schnee oder Hitze unpünktlicher?
 
 ## Forschungsfragen
 
+1. Sind Züge in Köln Hbf bei Starkregen, Sturm, Schnee oder Hitze (≥ 30 °C) stärker verspätet als bei normalem Wetter?
+2. Ist die Bahn in den NRW-Schulferien und an Feiertagen pünktlicher als an normalen Werktagen?
+3. Trifft schlechtes Wetter den Fernverkehr (ICE/IC) stärker als den Regionalverkehr (RE/RB/S)?
+
+Als pünktlich gilt ein Zug mit weniger als 6 Minuten Verspätung (Definition der DB).
+
 ## Plan
