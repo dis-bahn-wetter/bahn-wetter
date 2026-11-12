@@ -4,6 +4,13 @@ Ist die Bahn bei Regen, Sturm, Schnee oder Hitze unpünktlicher?
 
 ## Team
 
+| Name | GitHub | Zuständig für |
+| --- | --- | --- |
+| Thomas Trinh | [@trinhthomas](https://github.com/trinhthomas) | DB-Verspätungen |
+| Paul Ewers | [@paulews](https://github.com/paulews) | DWD-Wetter |
+| Lennart Merschel | [@lenmer100](https://github.com/lenmer100) | Feiertage/Events (Scraping) |
+| Robel Mihretab | [@robelmihretab](https://github.com/robelmihretab) | NRW-Schulferien (Scraping) |
+
 ## Thema
 
 Verspätungen gehören für viele Pendlerinnen und Pendler in Köln zum Alltag. Wir untersuchen, ob die Bahn bei schlechtem Wetter unpünktlicher ist. Dafür verbinden wir die Verspätungsdaten der Deutschen Bahn für Köln Hbf mit stündlichen Wetterdaten des Deutschen Wetterdienstes und reichern sie mit gescrapten Daten zu Schulferien und Feiertagen an.
