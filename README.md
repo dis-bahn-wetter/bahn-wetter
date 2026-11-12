@@ -6,6 +6,10 @@ Ist die Bahn bei Regen, Sturm, Schnee oder Hitze unpünktlicher?
 
 ## Thema
 
+Verspätungen gehören für viele Pendlerinnen und Pendler in Köln zum Alltag. Wir untersuchen, ob die Bahn bei schlechtem Wetter unpünktlicher ist. Dafür verbinden wir die Verspätungsdaten der Deutschen Bahn für Köln Hbf mit stündlichen Wetterdaten des Deutschen Wetterdienstes und reichern sie mit gescrapten Daten zu Schulferien und Feiertagen an.
+
+Grenzen: Die DB-Daten reichen erst ab Juli 2024 zurück und stammen aus einer gesammelten Kopie der DB-Schnittstelle. Streiks und Baustellen können den Einfluss des Wetters überlagern.
+
 ## Daten
 
 | Datensatz | Herausgeber | Lizenz | Formate | Profiliert von |
